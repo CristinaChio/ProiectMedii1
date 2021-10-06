@@ -6,7 +6,8 @@ namespace Proiect1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var name = "Kiki";
+            Console.WriteLine($"Hello {name}");
         }
     }
 }
